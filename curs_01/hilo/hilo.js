@@ -90,7 +90,7 @@ function higher() {
         score++;
         showFace(true);
         afiseazaScor();
-    } else {
+    } else {``
         score--;
         showFace(false);
         afiseazaScor();
